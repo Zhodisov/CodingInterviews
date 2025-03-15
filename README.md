@@ -1,3 +1,15 @@
+<br/><br/>
+<div align="center"> 
+  <img src="https://profile-counter.glitch.me/Zhodisov/count.svg" alt="Visitor's Count" />
+</div>
+<br/><br/>
+
+## 🌐 Socials:
+[![YOUTUBE](https://img.shields.io/badge/Youtube-fc0000?style=for-the-badge&logo=YOUTUBE&logoColor=white)](https://www.youtube.com/@Jodis974)
+[![Discord](https://img.shields.io/badge/Discord-6a85b9?style=for-the-badge&logo=discord&logoColor=white)](https://safemarket.xyz/discord)
+[![Safemarket Email](https://img.shields.io/badge/safemarket_email-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:support-checkout@safemarket.xyz)
+[![safemarket.xyz](https://img.shields.io/badge/safemarket.xyz-0077B5?style=for-the-badge&logo=internet&logoColor=white)](https://safemarket.xyz/)
+
 | 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 |
 |--------|:------:|:--------:|:----------:|
 | [牛客剑指Offer题目列表](http://www.nowcoder.com/ta/coding-interviews?page=) | [九度OJ剑指Offer题目列表](http://ac.jobdu.com/hhtproblems.php) | [剑指Offer](http://blog.csdn.net/gatieme/article/category/6174073) | [CodingInterviews--剑指Offer--名企面试官精讲典型编程题 ](https://github.com/gatieme/CodingInterviews) | 
